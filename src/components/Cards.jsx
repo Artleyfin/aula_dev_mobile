@@ -6,7 +6,7 @@ export default function Cards() {
         <>
             <img src={torre} alt="Foto da torre" />
             <img src={aviao} alt="Foto do avião" />
-            <h1>ialackbahhhhh</h1>
+            <h1>ialackbahhhcdhh</h1>
         </>
     );
 }
