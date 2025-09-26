@@ -1,0 +1,22 @@
+.icon{
+    width: 16px;
+    height: 16px;
+}
+
+.circle{
+    border-radius: 50%;
+}
+
+.button{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+}
+
+.button:hover{
+    background: rgb(130, 194, 247);
+    cursor: pointer;
+}

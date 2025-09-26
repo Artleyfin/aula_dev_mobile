@@ -1,0 +1,21 @@
+/* CSS RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(8, 8, 16);
+}
+
+.app-container{
+    max-width: 480px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}

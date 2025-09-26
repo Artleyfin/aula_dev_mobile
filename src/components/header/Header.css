@@ -1,0 +1,24 @@
+/* DISPLAY FLEX */
+.flex{
+    display: flex;
+}
+.flex-row{
+    flex-direction: row;
+}
+.justify-space-between{
+    justify-content: space-between;
+}
+.justify-space-around{
+    justify-content: space-around;
+}
+.gap-2{
+    gap: 0.5rem;
+}
+.align-center{
+    align-items: center;
+}
+
+/* ESPECIFICA PARA O COMPONENTE HEADERS */
+.header{
+    margin: 0 8px;
+}
