@@ -1,7 +1,7 @@
 export default function Quickaccess({ icone }) {
   return (
     <>
-      <img src={icone} alt="" style={{ width: "16px" }} />
+      <img src={icone} alt="" style={{ width: "30px" }} />
     </>
   );
 }
